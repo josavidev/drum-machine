@@ -1,0 +1,10 @@
+#display {
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 3em;
+    font-weight: bold;
+    padding: 2vh 0;
+    text-align: center;
+    width: 100%;
+}
